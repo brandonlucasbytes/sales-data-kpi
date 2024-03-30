@@ -1,2 +1,2 @@
 # sales-data-kpi
-A modern sales data analysis dashboard, empowering stakeholders with actionable insights derived from SQL-driven data extraction, Excel analysis, and immersive Tableau visualizations.
+A modern data analysis project with an interactive dashboard, extracting and analyzing raw sales data to identify patterns, trends, and key performance indicators (KPIs) for strategic decision-making.
